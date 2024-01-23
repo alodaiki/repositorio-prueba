@@ -1,1 +1,1 @@
-# repositorio-prueba
+# Proyecto-Lab-Prueba
